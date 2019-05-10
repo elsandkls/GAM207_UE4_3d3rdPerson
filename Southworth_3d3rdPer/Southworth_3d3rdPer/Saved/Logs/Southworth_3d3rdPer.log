@@ -1,0 +1,1339 @@
+﻿Log file open, 05/10/19 15:10:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Southworth_3d3rdPer
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.261418
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' does not exist
+LogAudioMixer: Display: Failed to load Sound File dll
+LogAudioEditor: Display: LibSoundFile failed to load. Importing audio will not work correctly.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-5660361
+LogInit: Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 8.1 (), CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz, GPU: NVIDIA Quadro K2200
+LogInit: Compiled (64-bit): Mar 31 2019 02:05:09
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: Z:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.10-19.10.26:280][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.10-19.10.26:280][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.10-19.10.26:280][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Engine.ini]
+[2019.05.10-19.10.26:280][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Engine.ini]
+[2019.05.10-19.10.26:281][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Engine.ini]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Engine.ini]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.10-19.10.26:281][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Engine.ini]
+[2019.05.10-19.10.26:281][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Engine.ini]
+[2019.05.10-19.10.26:285][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Scalability.ini]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Scalability.ini]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Scalability.ini]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Scalability.ini]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.10-19.10.26:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Scalability.ini]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Scalability.ini]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Scalability.ini]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.10-19.10.26:286][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.10-19.10.26:286][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.10-19.10.26:286][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.10-19.10.26:295][  0]LogHAL: Display: Platform has ~ 32 GB [34100625408 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.05.10-19.10.26:296][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.10-19.10.26:296][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Scalability.ini]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Scalability.ini]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Scalability.ini]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Scalability.ini]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Scalability.ini]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Scalability.ini]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Scalability.ini]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.05.10-19.10.26:296][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Config/Windows/Engine.ini]
+[2019.05.10-19.10.26:297][  0]LogInit: Computer: ELS-SCHOOL-1
+[2019.05.10-19.10.26:297][  0]LogInit: User: els
+[2019.05.10-19.10.26:297][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.10-19.10.26:297][  0]LogInit: High frequency timer resolution =3.507501 MHz
+[2019.05.10-19.10.26:297][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2019.05.10-19.10.26:297][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.10-19.10.26:297][  0]LogMemory: Process Physical Memory: 94.90 MB used, 94.90 MB peak
+[2019.05.10-19.10.26:297][  0]LogMemory: Process Virtual Memory: 88.65 MB used, 88.65 MB peak
+[2019.05.10-19.10.26:297][  0]LogMemory: Physical Memory: 6622.38 MB used,  25898.52 MB free, 32520.89 MB total
+[2019.05.10-19.10.26:297][  0]LogMemory: Virtual Memory: 507.02 MB used,  134217224.00 MB free, 134217728.00 MB total
+[2019.05.10-19.10.26:312][  0]LogInit: Using OS detected language (en-US).
+[2019.05.10-19.10.26:312][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.10-19.10.26:313][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.10-19.10.26:482][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.10-19.10.26:482][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.10-19.10.26:615][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.10-19.10.26:615][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.10-19.10.26:633][  0]LogD3D11RHI:    0. 'NVIDIA Quadro K2200' (Feature Level 11_0)
+[2019.05.10-19.10.26:633][  0]LogD3D11RHI:       3971/0/16260 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.10-19.10.26:634][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.10-19.10.26:634][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.10-19.10.26:634][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.10-19.10.26:638][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.10-19.10.26:639][  0]LogD3D11RHI:     GPU DeviceId: 0x13ba (for the marketing name, search the web for "GPU Device Id")
+[2019.05.10-19.10.26:639][  0]LogWindows: EnumDisplayDevices:
+[2019.05.10-19.10.26:639][  0]LogWindows:    0. 'NVIDIA Quadro K2200' (P:0 D:1)
+[2019.05.10-19.10.26:639][  0]LogWindows:    1. 'NVIDIA Quadro K2200' (P:1 D:1)
+[2019.05.10-19.10.26:639][  0]LogWindows:    2. 'NVIDIA Quadro K2200' (P:0 D:0)
+[2019.05.10-19.10.26:639][  0]LogWindows:    3. 'NVIDIA Quadro K2200' (P:0 D:0)
+[2019.05.10-19.10.26:639][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.10-19.10.26:639][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro K2200
+[2019.05.10-19.10.26:639][  0]LogD3D11RHI:   Driver Version: 385.69 (internal:22.21.13.8569, unified:385.69)
+[2019.05.10-19.10.26:639][  0]LogD3D11RHI:      Driver Date: 9-16-2017
+[2019.05.10-19.10.26:639][  0]LogRHI: Texture pool is 2779 MB (70% of 3971 MB)
+[2019.05.10-19.10.26:652][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.10-19.10.26:655][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.10-19.10.26:656][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.10-19.10.26:656][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.10-19.10.26:669][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.05.10-19.10.26:886][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.05.10-19.10.26:897][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.05.10-19.10.26:908][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.05.10-19.10.26:919][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.05.10-19.10.26:930][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.05.10-19.10.26:942][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.05.10-19.10.26:953][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.05.10-19.10.26:964][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.05.10-19.10.26:968][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.05.10-19.10.27:038][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.05.10-19.10.27:038][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.05.10-19.10.27:038][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.05.10-19.10.27:038][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.05.10-19.10.27:038][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.05.10-19.10.27:038][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.05.10-19.10.27:038][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.05.10-19.10.27:038][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.05.10-19.10.27:038][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.05.10-19.10.27:038][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.05.10-19.10.27:038][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.05.10-19.10.27:038][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.05.10-19.10.27:038][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.05.10-19.10.27:038][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.05.10-19.10.27:038][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.05.10-19.10.27:038][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.05.10-19.10.27:038][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.05.10-19.10.27:038][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.05.10-19.10.27:039][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.05.10-19.10.27:083][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.05.10-19.10.27:083][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.05.10-19.10.27:105][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.05.10-19.10.27:105][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.05.10-19.10.27:116][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.05.10-19.10.27:126][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.05.10-19.10.27:136][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.05.10-19.10.27:147][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.05.10-19.10.27:187][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.05.10-19.10.27:187][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.05.10-19.10.27:187][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.10-19.10.27:192][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.05.10-19.10.27:220][  0]LogShaderCompilers: Guid format shader working directory is -67 characters bigger than the processId version (../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Intermediate/Shaders/WorkingDirectory/8384/).
+[2019.05.10-19.10.27:220][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/els/AppData/Local/Temp/UnrealShaderWorkingDir/C219955847711D0CCB14F9AFED8F12F3/'.
+[2019.05.10-19.10.27:221][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.10-19.10.27:221][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.10-19.10.27:221][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.10-19.10.27:726][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.10-19.10.27:793][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/els/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.10-19.10.27:793][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/els/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.05.10-19.10.27:793][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.10-19.10.27:793][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.10-19.10.27:793][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.10-19.10.27:793][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.10-19.10.27:805][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.10-19.10.27:805][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.10-19.10.27:805][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.10-19.10.27:817][  0]LogDerivedDataCache: Using Local data cache path C:/Users/els/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.10-19.10.27:817][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.10-19.10.27:817][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.10-19.10.27:841][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.10-19.10.27:842][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.10-19.10.27:842][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.10-19.10.27:920][  0]LogAssetRegistry: FAssetRegistry took 0.0321 seconds to start up
+[2019.05.10-19.10.28:243][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.10-19.10.28:372][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.10-19.10.28:372][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.05.10-19.10.28:372][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.10-19.10.28:372][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.05.10-19.10.28:372][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.05.10-19.10.28:382][  0]LogNetVersion: Southworth_3d3rdPer 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1451577127)
+[2019.05.10-19.10.28:740][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.034572 seconds
+[2019.05.10-19.10.28:748][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.05.10-19.10.28:748][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.05.10-19.10.28:748][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.10-19.10.29:443][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.10-19.10.29:468][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.10-19.10.29:565][  0]SourceControl: Source control is disabled
+[2019.05.10-19.10.29:565][  0]SourceControl: Source control is disabled
+[2019.05.10-19.10.29:567][  0]SourceControl: Source control is disabled
+[2019.05.10-19.10.29:568][  0]SourceControl: Source control is disabled
+[2019.05.10-19.10.29:627][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.10-19.10.29:665][  0]LogOcInput: OculusInput pre-init called
+[2019.05.10-19.10.30:224][  0]LogEngine: Initializing Engine...
+[2019.05.10-19.10.30:225][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.10-19.10.30:226][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.05.10-19.10.30:423][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.10-19.10.30:432][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.10-19.10.30:452][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.10-19.10.30:458][  0]LogInit: FAudioDevice initialized.
+[2019.05.10-19.10.30:459][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.10-19.10.30:554][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/els/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.10-19.10.30:564][  0]LogInit: Texture streaming: Enabled
+[2019.05.10-19.10.30:575][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.10-19.10.30:591][  0]LogInit: Transaction tracking system initialized
+[2019.05.10-19.10.30:602][  0]BlueprintLog: New page: Editor Load
+[2019.05.10-19.10.30:690][  0]LocalizationService: Localization service is disabled
+[2019.05.10-19.10.30:941][  0]LogFileCache: Scanning file cache for directory 'Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/' took 0.01s
+[2019.05.10-19.10.30:942][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.10-19.10.30:942][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.10-19.10.31:086][  0]SourceControl: Source control is disabled
+[2019.05.10-19.10.31:087][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 Z:/Program Files/Epic Games/UE_4.22/FeaturePacks/StarterContent.upack)
+[2019.05.10-19.10.31:089][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2019.05.10-19.10.31:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2019.05.10-19.10.31:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2019.05.10-19.10.31:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2019.05.10-19.10.31:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2019.05.10-19.10.31:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2019.05.10-19.10.31:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2019.05.10-19.10.31:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2019.05.10-19.10.31:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2019.05.10-19.10.31:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2019.05.10-19.10.31:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2019.05.10-19.10.31:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2019.05.10-19.10.31:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Collapse01.uasset"
+[2019.05.10-19.10.31:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Collapse02.uasset"
+[2019.05.10-19.10.31:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2019.05.10-19.10.31:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Explosion01.uasset"
+[2019.05.10-19.10.31:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Explosion02.uasset"
+[2019.05.10-19.10.31:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2019.05.10-19.10.31:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Fire01.uasset"
+[2019.05.10-19.10.31:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2019.05.10-19.10.31:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2019.05.10-19.10.31:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2019.05.10-19.10.31:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Light01.uasset"
+[2019.05.10-19.10.31:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2019.05.10-19.10.31:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Light02.uasset"
+[2019.05.10-19.10.31:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2019.05.10-19.10.31:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Smoke01.uasset"
+[2019.05.10-19.10.31:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2019.05.10-19.10.31:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2019.05.10-19.10.31:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2019.05.10-19.10.31:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2019.05.10-19.10.31:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2019.05.10-19.10.31:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2019.05.10-19.10.31:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2019.05.10-19.10.31:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Steam01.uasset"
+[2019.05.10-19.10.31:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2019.05.10-19.10.31:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2019.05.10-19.10.31:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2019.05.10-19.10.31:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2019.05.10-19.10.31:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2019.05.10-19.10.31:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2019.05.10-19.10.31:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2019.05.10-19.10.31:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2019.05.10-19.10.31:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2019.05.10-19.10.31:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2019.05.10-19.10.31:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2019.05.10-19.10.31:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2019.05.10-19.10.31:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2019.05.10-19.10.31:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2019.05.10-19.10.31:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2019.05.10-19.10.31:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2019.05.10-19.10.31:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2019.05.10-19.10.31:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2019.05.10-19.10.31:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2019.05.10-19.10.31:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2019.05.10-19.10.31:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Maps/Minimal_Default.umap"
+[2019.05.10-19.10.31:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2019.05.10-19.10.31:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Maps/StarterMap.umap"
+[2019.05.10-19.10.31:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2019.05.10-19.10.31:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2019.05.10-19.10.31:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2019.05.10-19.10.31:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2019.05.10-19.10.31:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2019.05.10-19.10.31:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2019.05.10-19.10.31:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2019.05.10-19.10.31:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2019.05.10-19.10.31:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2019.05.10-19.10.31:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2019.05.10-19.10.31:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2019.05.10-19.10.31:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2019.05.10-19.10.31:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2019.05.10-19.10.31:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2019.05.10-19.10.31:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2019.05.10-19.10.31:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2019.05.10-19.10.31:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2019.05.10-19.10.31:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2019.05.10-19.10.31:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Glass.uasset"
+[2019.05.10-19.10.31:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2019.05.10-19.10.31:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2019.05.10-19.10.31:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2019.05.10-19.10.31:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2019.05.10-19.10.31:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2019.05.10-19.10.31:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2019.05.10-19.10.31:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2019.05.10-19.10.31:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2019.05.10-19.10.31:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2019.05.10-19.10.31:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2019.05.10-19.10.31:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2019.05.10-19.10.31:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2019.05.10-19.10.31:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2019.05.10-19.10.31:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2019.05.10-19.10.31:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2019.05.10-19.10.31:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2019.05.10-19.10.31:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2019.05.10-19.10.31:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2019.05.10-19.10.31:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2019.05.10-19.10.31:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2019.05.10-19.10.31:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2019.05.10-19.10.31:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2019.05.10-19.10.31:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2019.05.10-19.10.31:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2019.05.10-19.10.31:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2019.05.10-19.10.31:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2019.05.10-19.10.31:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Particles/P_Explosion.uasset"
+[2019.05.10-19.10.31:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Particles/P_Fire.uasset"
+[2019.05.10-19.10.31:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Particles/P_Smoke.uasset"
+[2019.05.10-19.10.31:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Particles/P_Sparks.uasset"
+[2019.05.10-19.10.31:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2019.05.10-19.10.31:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2019.05.10-19.10.31:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2019.05.10-19.10.31:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2019.05.10-19.10.31:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2019.05.10-19.10.31:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2019.05.10-19.10.31:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2019.05.10-19.10.31:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2019.05.10-19.10.31:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2019.05.10-19.10.31:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2019.05.10-19.10.31:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2019.05.10-19.10.31:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/MaterialSphere.uasset"
+[2019.05.10-19.10.31:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/SM_Bush.uasset"
+[2019.05.10-19.10.31:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/SM_Chair.uasset"
+[2019.05.10-19.10.31:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2019.05.10-19.10.31:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/SM_Couch.uasset"
+[2019.05.10-19.10.31:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/SM_Door.uasset"
+[2019.05.10-19.10.31:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2019.05.10-19.10.31:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2019.05.10-19.10.31:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2019.05.10-19.10.31:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2019.05.10-19.10.31:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2019.05.10-19.10.31:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2019.05.10-19.10.31:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2019.05.10-19.10.31:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/SM_Rock.uasset"
+[2019.05.10-19.10.31:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/SM_Shelf.uasset"
+[2019.05.10-19.10.31:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/SM_Stairs.uasset"
+[2019.05.10-19.10.31:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/SM_Statue.uasset"
+[2019.05.10-19.10.31:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/SM_TableRound.uasset"
+[2019.05.10-19.10.31:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2019.05.10-19.10.31:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2019.05.10-19.10.31:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2019.05.10-19.10.31:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2019.05.10-19.10.31:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2019.05.10-19.10.31:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2019.05.10-19.10.31:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2019.05.10-19.10.31:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2019.05.10-19.10.31:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2019.05.10-19.10.31:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2019.05.10-19.10.31:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2019.05.10-19.10.31:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2019.05.10-19.10.31:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2019.05.10-19.10.31:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2019.05.10-19.10.31:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2019.05.10-19.10.31:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2019.05.10-19.10.31:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2019.05.10-19.10.31:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2019.05.10-19.10.31:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2019.05.10-19.10.31:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2019.05.10-19.10.31:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2019.05.10-19.10.31:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2019.05.10-19.10.31:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2019.05.10-19.10.31:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2019.05.10-19.10.31:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2019.05.10-19.10.31:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2019.05.10-19.10.31:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2019.05.10-19.10.31:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2019.05.10-19.10.31:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2019.05.10-19.10.31:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2019.05.10-19.10.31:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2019.05.10-19.10.31:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2019.05.10-19.10.31:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2019.05.10-19.10.31:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2019.05.10-19.10.31:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2019.05.10-19.10.31:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2019.05.10-19.10.31:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2019.05.10-19.10.32:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2019.05.10-19.10.32:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2019.05.10-19.10.32:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2019.05.10-19.10.32:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2019.05.10-19.10.32:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2019.05.10-19.10.32:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2019.05.10-19.10.32:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2019.05.10-19.10.32:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2019.05.10-19.10.32:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2019.05.10-19.10.32:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2019.05.10-19.10.32:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2019.05.10-19.10.32:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2019.05.10-19.10.32:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2019.05.10-19.10.32:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2019.05.10-19.10.32:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2019.05.10-19.10.32:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2019.05.10-19.10.32:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2019.05.10-19.10.32:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2019.05.10-19.10.32:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2019.05.10-19.10.32:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2019.05.10-19.10.32:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2019.05.10-19.10.32:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2019.05.10-19.10.32:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2019.05.10-19.10.32:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2019.05.10-19.10.32:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2019.05.10-19.10.32:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2019.05.10-19.10.32:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2019.05.10-19.10.32:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2019.05.10-19.10.32:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2019.05.10-19.10.32:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2019.05.10-19.10.32:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2019.05.10-19.10.32:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2019.05.10-19.10.32:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2019.05.10-19.10.32:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2019.05.10-19.10.32:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Door_M.uasset"
+[2019.05.10-19.10.32:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Door_N.uasset"
+[2019.05.10-19.10.32:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2019.05.10-19.10.32:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2019.05.10-19.10.32:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2019.05.10-19.10.32:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2019.05.10-19.10.32:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2019.05.10-19.10.32:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2019.05.10-19.10.32:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2019.05.10-19.10.32:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2019.05.10-19.10.32:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2019.05.10-19.10.32:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2019.05.10-19.10.32:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2019.05.10-19.10.32:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2019.05.10-19.10.32:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2019.05.10-19.10.32:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2019.05.10-19.10.32:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2019.05.10-19.10.32:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2019.05.10-19.10.32:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2019.05.10-19.10.32:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2019.05.10-19.10.32:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2019.05.10-19.10.32:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2019.05.10-19.10.32:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2019.05.10-19.10.32:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2019.05.10-19.10.32:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2019.05.10-19.10.32:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2019.05.10-19.10.32:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2019.05.10-19.10.32:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2019.05.10-19.10.32:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2019.05.10-19.10.32:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2019.05.10-19.10.32:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2019.05.10-19.10.32:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2019.05.10-19.10.32:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2019.05.10-19.10.32:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2019.05.10-19.10.32:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2019.05.10-19.10.32:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2019.05.10-19.10.32:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2019.05.10-19.10.32:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2019.05.10-19.10.32:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2019.05.10-19.10.32:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2019.05.10-19.10.32:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2019.05.10-19.10.32:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2019.05.10-19.10.32:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2019.05.10-19.10.32:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2019.05.10-19.10.32:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2019.05.10-19.10.32:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2019.05.10-19.10.32:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2019.05.10-19.10.32:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2019.05.10-19.10.32:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2019.05.10-19.10.32:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2019.05.10-19.10.32:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2019.05.10-19.10.32:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2019.05.10-19.10.32:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2019.05.10-19.10.32:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Water_M.uasset"
+[2019.05.10-19.10.32:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Water_N.uasset"
+[2019.05.10-19.10.32:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2019.05.10-19.10.32:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2019.05.10-19.10.32:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2019.05.10-19.10.32:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2019.05.10-19.10.32:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2019.05.10-19.10.32:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2019.05.10-19.10.32:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2019.05.10-19.10.32:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2019.05.10-19.10.32:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2019.05.10-19.10.32:830][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2019.05.10-19.10.32:908][  0]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Floor_400x40090FA568541FB53745A8EE4B2BD78EF72.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2019.05.10-19.10.32:910][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2019.05.10-19.10.32:911][  0]LightingResults: New page: Lighting Build
+[2019.05.10-19.10.32:913][  0]MapCheck: New page: Map Check
+[2019.05.10-19.10.32:913][  0]LightingResults: New page: Lighting Build
+[2019.05.10-19.10.32:936][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.05.10-19.10.33:140][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.10-19.10.33:152][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.10-19.10.33:178][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.05.10-19.10.33:178][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.10-19.10.33:178][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.104ms to complete.
+[2019.05.10-19.10.33:178][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.268
+[2019.05.10-19.10.33:253][  0]LogCollectionManager: Loaded 0 collections in 0.000673 seconds
+[2019.05.10-19.10.33:289][  0]LogFileCache: Scanning file cache for directory 'Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Collections/' took 0.01s
+[2019.05.10-19.10.33:289][  0]LogFileCache: Scanning file cache for directory 'Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Developers/els/Collections/' took 0.01s
+[2019.05.10-19.10.33:289][  0]LogFileCache: Scanning file cache for directory 'Z:/Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Collections/' took 0.01s
+[2019.05.10-19.10.33:289][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.10-19.10.33:298][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2733 classes and 661 folders.
+[2019.05.10-19.10.33:301][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.10-19.10.33:303][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:303][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:304][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:304][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:304][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:304][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:305][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:305][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:305][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:306][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:306][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:306][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:307][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:307][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:308][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:308][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:308][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:309][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:309][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:309][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:311][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:311][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:311][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.10-19.10.33:329][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.10-19.10.33:345][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.10-19.10.33:351][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.10-19.10.33:358][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.10-19.10.33:365][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.10-19.10.33:375][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.10-19.10.33:383][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.10-19.10.33:385][  0]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.10-19.10.33:385][  0]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.05.10-19.10.33:516][  0]LogRenderer: Reallocating scene render targets to support 892x448 Format 10 NumSamples 1 (Frame:1).
+[2019.05.10-19.10.33:633][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.10-19.10.33:633][  0]LogLoad: (Engine Initialization) Total time: 8.56 seconds
+[2019.05.10-19.10.33:633][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.10-19.10.33:669][  0]LogAssetRegistry: Asset discovery search completed in 5.7719 seconds
+[2019.05.10-19.10.33:671][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.10-19.10.33:671][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000133 seconds (updated 0 objects)
+[2019.05.10-19.10.33:735][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.10-19.11.05:725][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-19.11.06:831][962]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.10-19.11.40:308][832]LogRenderer: Reallocating scene render targets to support 904x448 Format 10 NumSamples 1 (Frame:7729).
+[2019.05.10-19.11.40:348][833]LogRenderer: Reallocating scene render targets to support 924x448 Format 10 NumSamples 1 (Frame:7731).
+[2019.05.10-19.11.40:402][834]LogRenderer: Reallocating scene render targets to support 948x448 Format 10 NumSamples 1 (Frame:7733).
+[2019.05.10-19.11.40:438][835]LogRenderer: Reallocating scene render targets to support 964x448 Format 10 NumSamples 1 (Frame:7735).
+[2019.05.10-19.11.40:481][836]LogRenderer: Reallocating scene render targets to support 972x448 Format 10 NumSamples 1 (Frame:7737).
+[2019.05.10-19.11.40:529][837]LogRenderer: Reallocating scene render targets to support 984x448 Format 10 NumSamples 1 (Frame:7739).
+[2019.05.10-19.11.40:656][848]LogRenderer: Reallocating scene render targets to support 988x448 Format 10 NumSamples 1 (Frame:7741).
+[2019.05.10-19.11.40:694][849]LogRenderer: Reallocating scene render targets to support 992x448 Format 10 NumSamples 1 (Frame:7743).
+[2019.05.10-19.11.40:741][850]LogRenderer: Reallocating scene render targets to support 996x448 Format 10 NumSamples 1 (Frame:7745).
+[2019.05.10-19.11.40:854][857]LogRenderer: Reallocating scene render targets to support 1000x448 Format 10 NumSamples 1 (Frame:7749).
+[2019.05.10-19.11.40:903][858]LogRenderer: Reallocating scene render targets to support 1004x448 Format 10 NumSamples 1 (Frame:7751).
+[2019.05.10-19.11.40:955][859]LogRenderer: Reallocating scene render targets to support 1008x448 Format 10 NumSamples 1 (Frame:7753).
+[2019.05.10-19.13.52:414][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.05.10-19.13.52:501][442]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.10-19.14.09:609][488]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.10-19.14.09:730][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.05.10-19.14.09:730][488]LogMetaData: Removing '/Game/Levels/Level1.SKEL_Level1_C' ref from Metadata '/Game/Levels/ThirdPersonExampleMap.PackageMetaData'
+[2019.05.10-19.14.09:730][488]LogMetaData: Removing '/Game/Levels/Level1.Level1_C' ref from Metadata '/Game/Levels/ThirdPersonExampleMap.PackageMetaData'
+[2019.05.10-19.14.09:853][488]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Level1_BuiltData5633696A4426AB7B572113BD10FA3D4A.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Level1_BuiltData.uasset'
+[2019.05.10-19.14.09:885][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.05.10-19.14.09:997][488]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Level1BE1E80E547FDD6BA53691FA228B227CE.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Level1.umap'
+[2019.05.10-19.14.10:003][488]LogFileHelpers: Saving map 'Level1' took 0.146
+[2019.05.10-19.14.10:149][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.05.10-19.14.10:169][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.05.10-19.14.10:195][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.05.10-19.14.10:214][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.05.10-19.14.24:319][175]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/Level1.Level1
+[2019.05.10-19.14.24:340][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.05.10-19.14.24:341][175]Cmd: MAP LOAD FILE="../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.10-19.14.24:341][175]LightingResults: New page: Lighting Build
+[2019.05.10-19.14.24:342][175]LoadErrors: New page: Loading map: Level1.umap
+[2019.05.10-19.14.24:343][175]MapCheck: New page: Map Check
+[2019.05.10-19.14.24:343][175]LightingResults: New page: Lighting Build
+[2019.05.10-19.14.24:366][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.05.10-19.14.24:370][175]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.10-19.14.24:391][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.05.10-19.14.24:417][175]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.10-19.14.24:417][175]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.141ms to complete.
+[2019.05.10-19.14.24:418][175]LogFileHelpers: Loading map 'Level1' took 0.078
+[2019.05.10-19.14.32:239][ 99]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.05.10-19.14.32:917][176]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.10-19.14.33:410][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2019.05.10-19.14.34:653][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-19.14.36:923][647]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/Level1.Level1
+[2019.05.10-19.14.36:946][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.05.10-19.14.36:947][647]Cmd: MAP LOAD FILE="../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.10-19.14.36:947][647]LightingResults: New page: Lighting Build
+[2019.05.10-19.14.36:947][647]LoadErrors: New page: Loading map: Level1.umap
+[2019.05.10-19.14.36:949][647]MapCheck: New page: Map Check
+[2019.05.10-19.14.36:949][647]LightingResults: New page: Lighting Build
+[2019.05.10-19.14.36:970][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.05.10-19.14.36:985][647]LogAIModule: Creating AISystem for world Level1
+[2019.05.10-19.14.37:002][647]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.10-19.14.37:023][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.05.10-19.14.37:036][647]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.10-19.14.37:036][647]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2019.05.10-19.14.37:037][647]LogFileHelpers: Loading map 'Level1' took 0.091
+[2019.05.10-19.16.32:388][437]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.05.10-19.16.32:411][437]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.10-19.16.33:649][581]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.10-19.16.37:194][  2]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.10-19.16.38:192][121]Cmd: TRANSACTION UNDO
+[2019.05.10-19.16.38:192][121]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.10-19.16.39:213][222]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.10-19.16.41:101][448]Cmd: TRANSACTION UNDO
+[2019.05.10-19.16.41:102][448]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.05.10-19.16.42:698][637]Cmd: TRANSACTION UNDO
+[2019.05.10-19.16.42:698][637]LogEditorTransaction: Undo Scale Actors
+[2019.05.10-19.16.43:292][706]Cmd: TRANSACTION UNDO
+[2019.05.10-19.16.43:292][706]LogEditorTransaction: Undo Scale Actors
+[2019.05.10-19.17.09:678][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2019.05.10-19.17.25:994][802]Cmd: TRANSACTION UNDO
+[2019.05.10-19.17.25:995][802]LogEditorTransaction: Undo Scale Actors
+[2019.05.10-19.17.26:388][836]Cmd: TRANSACTION UNDO
+[2019.05.10-19.17.26:389][836]LogEditorTransaction: Undo Scale Actors
+[2019.05.10-19.17.26:634][857]Cmd: TRANSACTION UNDO
+[2019.05.10-19.17.26:634][857]LogEditorTransaction: Undo Scale Actors
+[2019.05.10-19.17.26:862][884]Cmd: TRANSACTION UNDO
+[2019.05.10-19.17.26:863][884]LogEditorTransaction: Undo Scale Actors
+[2019.05.10-19.17.27:116][914]Cmd: TRANSACTION UNDO
+[2019.05.10-19.17.27:116][914]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.10-19.17.27:373][941]Cmd: TRANSACTION UNDO
+[2019.05.10-19.17.27:373][941]LogEditorTransaction: Undo Scale Actors
+[2019.05.10-19.17.27:746][984]Cmd: TRANSACTION UNDO
+[2019.05.10-19.17.27:746][984]LogEditorTransaction: Undo Scale Actors
+[2019.05.10-19.17.28:035][ 17]Cmd: TRANSACTION UNDO
+[2019.05.10-19.17.28:035][ 17]LogEditorTransaction: Undo Scale Actors
+[2019.05.10-19.17.28:434][ 63]Cmd: TRANSACTION UNDO
+[2019.05.10-19.17.28:434][ 63]LogEditorTransaction: Undo Scale Actors
+[2019.05.10-19.17.30:320][288]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.10-19.17.31:984][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-19.17.44:512][983]Cmd: MODE GRID=0
+[2019.05.10-19.18.04:975][300]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.05.10-19.20.01:816][278]LogSlate: Window 'Project Settings' being destroyed
+[2019.05.10-19.20.01:818][278]LogSlate: Window 'Project Settings' being destroyed
+[2019.05.10-19.24.36:805][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.05.10-19.24.36:806][246]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1' took 0.021
+[2019.05.10-19.34.36:701][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.05.10-19.34.36:701][205]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1' took 0.020
+[2019.05.10-19.44.33:854][729]LogHttp: Warning: 000000EEEB204900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.05.10-19.44.33:854][729]LogHttp: Warning: 000000EEEB204900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xeecd7bbf70 [can pipeline])
+[2019.05.10-19.44.33:854][729]LogHttp: Warning: 000000EEEB204900: libcurl info message cache 1 (Re-using existing connection! (#12) with host datarouter.ol.epicgames.com)
+[2019.05.10-19.44.33:855][729]LogHttp: Warning: 000000EEEB204900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.211.220.63) port 443 (#12))
+[2019.05.10-19.44.33:855][729]LogHttp: Warning: 000000EEEB204900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.05.10-19.44.33:855][729]LogHttp: Warning: 000000EEEB204900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.05.10-19.44.33:855][729]LogHttp: Warning: 000000EEEB204900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.05.10-19.44.33:856][729]LogHttp: Warning: 000000EEEB204900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.05.10-19.44.33:856][729]LogHttp: Warning: 000000EEEB204900: libcurl info message cache 7 (Closing connection 12)
+[2019.05.10-19.44.34:188][730]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B47E5E7DD-4B01-DB25-8E81-EEAF96DE49A0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.0-5660361%2B%2B%2BUE4%2BRelease-4.22&UserID=88e623b3404d6cd60b026aa82264fc71%7C105c0d943c27410493a04725f43a132f%7C0aad2686-c124-423d-aa6c-ab7349218f6e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.10-19.44.36:901][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.05.10-19.44.36:901][737]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1' took 0.019
+[2019.05.10-19.45.32:201][595]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.05.10-19.49.24:300][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.05.10-19.49.24:484][400]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Level178E8E075473D013BE68144AACE657935.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Level1.umap'
+[2019.05.10-19.49.24:665][400]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Level1_BuiltDataF46B457848FBB94425A24D979E43B67B.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Level1_BuiltData.uasset'
+[2019.05.10-19.50.35:121][619]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.05.10-19.50.35:127][619]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2019.05.10-19.50.41:538][619]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.05.10-19.50.41:538][619]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.05.10-19.50.41:538][619]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.05.10-19.50.41:538][619]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.05.10-19.50.41:538][619]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.05.10-19.50.41:538][619]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.05.10-19.50.41:538][619]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.05.10-19.50.41:538][619]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.05.10-19.50.41:538][619]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.05.10-19.50.41:538][619]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.05.10-19.50.41:539][619]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.05.10-19.50.41:539][619]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.05.10-19.50.41:539][619]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.05.10-19.50.41:539][619]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.05.10-19.50.41:539][619]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.05.10-19.50.41:539][619]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.05.10-19.50.41:539][619]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.05.10-19.50.41:539][619]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.05.10-19.50.41:539][619]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.05.10-19.50.41:539][619]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.05.10-19.50.41:539][619]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.05.10-19.50.41:539][619]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.05.10-19.50.41:539][619]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.05.10-19.50.41:539][619]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.05.10-19.50.41:540][619]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.05.10-19.50.41:540][619]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.05.10-19.50.41:540][619]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.05.10-19.50.41:540][619]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.05.10-19.50.41:540][619]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.05.10-19.50.41:540][619]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.05.10-19.50.41:540][619]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.05.10-19.50.41:540][619]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.05.10-19.50.41:540][619]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.05.10-19.50.41:540][619]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.05.10-19.50.41:540][619]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.05.10-19.50.41:540][619]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.05.10-19.50.41:540][619]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.05.10-19.50.41:540][619]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.05.10-19.50.41:541][619]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.05.10-19.50.41:541][619]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.05.10-19.50.41:541][619]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.05.10-19.50.41:541][619]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.05.10-19.50.41:541][619]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.05.10-19.50.41:541][619]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.05.10-19.50.41:541][619]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.05.10-19.50.41:541][619]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.05.10-19.50.41:541][619]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.05.10-19.50.41:541][619]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.05.10-19.50.41:541][619]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.05.10-19.50.41:541][619]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.05.10-19.50.41:541][619]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.10-19.50.41:541][619]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.05.10-19.50.41:541][619]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.05.10-19.50.41:542][619]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.05.10-19.50.41:542][619]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.05.10-19.50.41:542][619]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.05.10-19.50.41:542][619]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.05.10-19.50.41:542][619]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.05.10-19.50.41:542][619]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.05.10-19.50.41:542][619]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.05.10-19.50.41:542][619]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.10-19.50.41:542][619]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.05.10-19.50.41:542][619]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.05.10-19.50.41:542][619]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.05.10-19.50.41:542][619]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.05.10-19.50.41:542][619]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.05.10-19.50.41:542][619]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.10-19.50.41:543][619]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.10-19.50.41:543][619]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.10-19.50.41:543][619]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.10-19.50.41:543][619]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.10-19.50.41:543][619]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.10-19.50.41:543][619]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.10-19.50.41:543][619]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.10-19.50.41:543][619]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.10-19.50.41:543][619]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.10-19.50.41:543][619]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.10-19.50.41:543][619]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.10-19.50.41:543][619]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.10-19.50.41:543][619]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.10-19.50.41:543][619]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.10-19.50.41:544][619]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.10-19.50.41:544][619]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.10-19.50.41:544][619]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.10-19.50.41:544][619]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.10-19.50.41:544][619]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.10-19.50.41:544][619]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.10-19.50.41:544][619]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.10-19.50.41:544][619]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.10-19.50.41:544][619]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.10-19.50.41:544][619]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.10-19.50.41:544][619]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.10-19.50.41:544][619]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.10-19.50.41:544][619]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.10-19.50.41:544][619]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.10-19.50.41:544][619]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.10-19.50.41:545][619]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.10-19.50.41:545][619]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.10-19.50.41:545][619]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.10-19.50.41:545][619]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.10-19.50.41:545][619]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.10-19.50.41:545][619]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.10-19.50.41:545][619]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.10-19.50.41:545][619]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.10-19.50.41:545][619]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.10-19.50.41:545][619]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.10-19.50.41:545][619]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.10-19.50.41:545][619]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.10-19.50.41:545][619]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.10-19.50.41:546][619]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.10-19.50.43:152][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.05.10-19.50.43:465][778]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Level10A3938774F69BD55A0730580B0E58EDE.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Level1.umap'
+[2019.05.10-19.50.43:596][778]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Level1_BuiltDataD6706A7A49832E5D55D39384EF1B327F.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Level1_BuiltData.uasset'
+[2019.05.10-19.55.15:959][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-19.58.47:892][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-19.59.52:685][300]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.05.10-19.59.52:711][300]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.10-19.59.53:815][414]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.05.10-20.00.59:664][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-20.01.19:080][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-20.03.45:538][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-20.03.45:674][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.05.10-20.03.45:783][685]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.05.10-20.03.45:995][685]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Level136392C124218D4BC8B13478EC8F1725C.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Level1.umap'
+[2019.05.10-20.03.46:131][685]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Level1_BuiltDataF3C5F106401E1DD75281A99DC1F7C1D8.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Level1_BuiltData.uasset'
+[2019.05.10-20.04.55:828][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-20.04.55:964][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.05.10-20.04.56:062][467]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.05.10-20.04.56:255][467]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Level115D7F4E440539D75E912B492BBC66E42.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Level1.umap'
+[2019.05.10-20.04.56:384][467]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Level1_BuiltData4D78B67A40210C1F8C792EB7A258B3E7.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Level1_BuiltData.uasset'
+[2019.05.10-20.05.52:465][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-20.06.03:051][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-20.06.13:337][904]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.10-20.06.25:404][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.10-20.06.41:337][641]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.10-20.06.51:180][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.05.10-20.06.51:277][814]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.05.10-20.06.51:479][814]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Level1761997E9421BDA760799F99FFB06C5C0.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Level1.umap'
+[2019.05.10-20.06.51:610][814]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Level1_BuiltData24C6F7464AA1FAEE527FA3864B07D634.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Level1_BuiltData.uasset'
+[2019.05.10-20.06.56:708][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-20.07.15:333][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.10-20.07.18:621][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.10-20.07.18:666][407]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.05.10-20.07.18:765][407]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.05.10-20.07.18:972][407]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Level15412D5594BDE39761D617C969EB57C7F.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Level1.umap'
+[2019.05.10-20.07.19:100][407]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Level1_BuiltDataEA21255D4807574BB9648E8AE8FAA880.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Level1_BuiltData.uasset'
+[2019.05.10-20.09.21:635][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-20.09.44:847][690]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/Level1.Level1
+[2019.05.10-20.09.44:868][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.05.10-20.09.44:870][690]Cmd: MAP LOAD FILE="../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.10-20.09.44:870][690]LightingResults: New page: Lighting Build
+[2019.05.10-20.09.44:871][690]LoadErrors: New page: Loading map: Level1.umap
+[2019.05.10-20.09.44:872][690]MapCheck: New page: Map Check
+[2019.05.10-20.09.44:872][690]LightingResults: New page: Lighting Build
+[2019.05.10-20.09.44:899][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.05.10-20.09.44:953][690]LogAIModule: Creating AISystem for world Level1
+[2019.05.10-20.09.44:972][690]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.10-20.09.44:993][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.05.10-20.09.45:013][690]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.10-20.09.45:013][690]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2019.05.10-20.09.45:014][690]LogFileHelpers: Loading map 'Level1' took 0.146
+[2019.05.10-20.09.46:890][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-20.12.29:468][131]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.10-20.12.29:890][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.05.10-20.12.29:970][131]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.10-20.12.33:892][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.05.10-20.12.35:685][525]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.10-20.12.35:756][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.05.10-20.15.01:650][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.05.10-20.15.03:147][ 10]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.10-20.15.03:213][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.05.10-20.15.06:267][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.05.10-20.15.07:428][337]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.10-20.15.07:494][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.05.10-20.15.13:474][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.05.10-20.15.15:121][954]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.10-20.15.15:192][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.05.10-20.15.18:251][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.05.10-20.15.19:604][269]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.10-20.15.19:660][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.05.10-20.20.40:041][573]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.05.10-20.20.40:070][573]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.05.10-20.20.40:094][573]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.10-20.20.40:094][573]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.10-20.20.40:094][573]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.10-20.20.40:094][573]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.10-20.20.40:094][573]LogMaterial: Display: Missing cached shader map for material M_Rock_Basalt, compiling. 
+[2019.05.10-20.20.40:118][573]LogMaterial: Display: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2019.05.10-20.20.40:146][573]LogMaterial: Display: Missing cached shader map for material M_Rock_Slate, compiling. 
+[2019.05.10-20.20.40:172][573]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2019.05.10-20.20.40:193][573]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2019.05.10-20.20.40:433][579]LogShaderCompilers: Display: Shaders left to compile 186
+[2019.05.10-20.20.42:923][730]LogShaderCompilers: Display: Shaders left to compile 176
+[2019.05.10-20.20.43:085][737]LogShaderCompilers: Display: Shaders left to compile 166
+[2019.05.10-20.20.44:216][782]LogShaderCompilers: Display: Shaders left to compile 156
+[2019.05.10-20.20.44:602][798]LogShaderCompilers: Display: Shaders left to compile 146
+[2019.05.10-20.20.46:206][865]LogShaderCompilers: Display: Shaders left to compile 136
+[2019.05.10-20.20.46:930][894]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.05.10-20.20.47:059][899]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.05.10-20.20.48:668][965]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.05.10-20.20.48:989][979]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.05.10-20.20.50:250][ 31]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.05.10-20.20.50:917][ 59]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.05.10-20.20.51:382][ 78]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.05.10-20.20.52:710][133]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.05.10-20.20.53:958][185]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.05.10-20.20.53:970][186]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.10-20.20.54:811][220]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.10-20.20.56:203][277]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.10-20.20.56:656][296]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.10-20.21.09:623][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.05.10-20.21.09:623][931]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1' took 0.021
+[2019.05.10-20.21.09:625][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/Landscape/Textures/T_ground_Moss_D] ([1] browsable assets)...
+[2019.05.10-20.21.09:632][931]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Levels/Landscape/Textures/T_ground_Moss_D.T_ground_Moss_D]
+[2019.05.10-20.21.09:632][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Landscape/Textures/T_ground_Moss_D]
+[2019.05.10-20.21.09:785][931]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/T_ground_Moss_D_Auto12B4AAB4D4B5716B87661DDA2CFBE0409.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Autosaves/Game/Levels/Landscape/Textures/T_ground_Moss_D_Auto1.uasset'
+[2019.05.10-20.21.09:786][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/Landscape/Textures/T_Ground_Moss_N] ([1] browsable assets)...
+[2019.05.10-20.21.09:794][931]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Levels/Landscape/Textures/T_Ground_Moss_N.T_Ground_Moss_N]
+[2019.05.10-20.21.09:794][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Landscape/Textures/T_Ground_Moss_N]
+[2019.05.10-20.21.09:895][931]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/T_Ground_Moss_N_Auto15AB1DCCD42D4C50EEB7833A89BF8EA2F.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Autosaves/Game/Levels/Landscape/Textures/T_Ground_Moss_N_Auto1.uasset'
+[2019.05.10-20.21.09:896][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/Landscape/Textures/T_Ground_Grass_D] ([1] browsable assets)...
+[2019.05.10-20.21.09:903][931]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Levels/Landscape/Textures/T_Ground_Grass_D.T_Ground_Grass_D]
+[2019.05.10-20.21.09:903][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Landscape/Textures/T_Ground_Grass_D]
+[2019.05.10-20.21.10:044][931]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/T_Ground_Grass_D_Auto19CE4DDEF49298AF47CCA75AD50F4107F.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Autosaves/Game/Levels/Landscape/Textures/T_Ground_Grass_D_Auto1.uasset'
+[2019.05.10-20.21.10:046][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/Landscape/Textures/T_Ground_Grass_N] ([1] browsable assets)...
+[2019.05.10-20.21.10:053][931]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Levels/Landscape/Textures/T_Ground_Grass_N.T_Ground_Grass_N]
+[2019.05.10-20.21.10:053][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Landscape/Textures/T_Ground_Grass_N]
+[2019.05.10-20.21.10:186][931]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/T_Ground_Grass_N_Auto1171347184DE67C0F78CB19A4219BD623.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Autosaves/Game/Levels/Landscape/Textures/T_Ground_Grass_N_Auto1.uasset'
+[2019.05.10-20.21.10:187][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/Landscape/Materials/M_Ground_Grass] ([1] browsable assets)...
+[2019.05.10-20.21.10:204][931]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Levels/Landscape/Materials/M_Ground_Grass.M_Ground_Grass]
+[2019.05.10-20.21.10:204][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Landscape/Materials/M_Ground_Grass]
+[2019.05.10-20.21.10:231][931]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/M_Ground_Grass_Auto1728B1FD947FBFF39EE4CA38A3E5D01F2.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Autosaves/Game/Levels/Landscape/Materials/M_Ground_Grass_Auto1.uasset'
+[2019.05.10-20.21.10:232][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/Landscape/Materials/M_Ground_Moss] ([1] browsable assets)...
+[2019.05.10-20.21.10:249][931]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Levels/Landscape/Materials/M_Ground_Moss.M_Ground_Moss]
+[2019.05.10-20.21.10:249][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Landscape/Materials/M_Ground_Moss]
+[2019.05.10-20.21.10:275][931]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/M_Ground_Moss_Auto1A3F5BA3E407283B30D3E2A8C6B478789.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Autosaves/Game/Levels/Landscape/Materials/M_Ground_Moss_Auto1.uasset'
+[2019.05.10-20.21.10:277][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/Landscape/Materials/M_Rock_Basalt] ([1] browsable assets)...
+[2019.05.10-20.21.10:292][931]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Levels/Landscape/Materials/M_Rock_Basalt.M_Rock_Basalt]
+[2019.05.10-20.21.10:292][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Landscape/Materials/M_Rock_Basalt]
+[2019.05.10-20.21.10:319][931]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/M_Rock_Basalt_Auto1BF78A4384E049D8DCF80CF873EA712AD.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Autosaves/Game/Levels/Landscape/Materials/M_Rock_Basalt_Auto1.uasset'
+[2019.05.10-20.21.10:320][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/Landscape/Materials/M_Rock_Sandstone] ([1] browsable assets)...
+[2019.05.10-20.21.10:335][931]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Levels/Landscape/Materials/M_Rock_Sandstone.M_Rock_Sandstone]
+[2019.05.10-20.21.10:335][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Landscape/Materials/M_Rock_Sandstone]
+[2019.05.10-20.21.10:361][931]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/M_Rock_Sandstone_Auto129B89CB14EAB3C678316EB8B5033FD7F.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Autosaves/Game/Levels/Landscape/Materials/M_Rock_Sandstone_Auto1.uasset'
+[2019.05.10-20.21.10:362][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/Landscape/Materials/M_Rock_Slate] ([1] browsable assets)...
+[2019.05.10-20.21.10:377][931]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Levels/Landscape/Materials/M_Rock_Slate.M_Rock_Slate]
+[2019.05.10-20.21.10:377][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Landscape/Materials/M_Rock_Slate]
+[2019.05.10-20.21.10:404][931]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/M_Rock_Slate_Auto181FF75C34039C571C11F37BB633ECE28.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Autosaves/Game/Levels/Landscape/Materials/M_Rock_Slate_Auto1.uasset'
+[2019.05.10-20.21.10:406][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/Landscape/Materials/M_Water_Lake] ([1] browsable assets)...
+[2019.05.10-20.21.10:419][931]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Levels/Landscape/Materials/M_Water_Lake.M_Water_Lake]
+[2019.05.10-20.21.10:419][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Landscape/Materials/M_Water_Lake]
+[2019.05.10-20.21.10:444][931]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/M_Water_Lake_Auto1B9C6358943C549183051A590D96CA517.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Autosaves/Game/Levels/Landscape/Materials/M_Water_Lake_Auto1.uasset'
+[2019.05.10-20.21.10:445][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/Landscape/Materials/M_Water_Ocean] ([1] browsable assets)...
+[2019.05.10-20.21.10:459][931]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Levels/Landscape/Materials/M_Water_Ocean.M_Water_Ocean]
+[2019.05.10-20.21.10:459][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Landscape/Materials/M_Water_Ocean]
+[2019.05.10-20.21.10:484][931]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/M_Water_Ocean_Auto13820344E40616BE0BB3801A6798390FA.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Autosaves/Game/Levels/Landscape/Materials/M_Water_Ocean_Auto1.uasset'
+[2019.05.10-20.21.10:485][931]LogFileHelpers: Auto-saving content packages took 0.861
+[2019.05.10-20.22.15:001][520]LogAssetEditorManager: Opening Asset editor for Material /Game/Levels/Landscape/Materials/M_Ground_Grass.M_Ground_Grass
+[2019.05.10-20.22.15:026][520]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.05.10-20.22.15:595][520]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.05.10-20.22.15:627][520]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.10-20.22.15:627][520]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.10-20.22.15:627][520]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.10-20.22.15:627][520]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.10-20.22.15:641][520]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2019.05.10-20.22.15:647][520]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2019.05.10-20.22.15:653][520]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2019.05.10-20.22.15:661][520]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_9, compiling. 
+[2019.05.10-20.22.15:667][520]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2019.05.10-20.22.15:673][520]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2019.05.10-20.22.15:679][520]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2019.05.10-20.22.15:684][520]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_6, compiling. 
+[2019.05.10-20.22.15:690][520]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_7, compiling. 
+[2019.05.10-20.22.15:696][520]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_8, compiling. 
+[2019.05.10-20.22.15:741][520]LogSlate: Took 0.018050 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.10-20.22.16:491][553]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.05.10-20.22.16:545][556]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.05.10-20.22.16:545][556]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.10-20.22.16:562][557]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.10-20.22.16:713][564]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.10-20.22.16:718][564]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.10-20.22.16:791][568]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.10-20.22.16:804][569]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.10-20.22.16:919][575]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.10-20.22.17:117][584]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.10-20.22.17:313][594]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.10-20.22.17:342][595]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.10-20.22.17:399][598]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.10-20.22.17:613][608]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.10-20.22.17:651][610]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.10-20.22.17:840][619]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.10-20.22.17:887][621]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.10-20.22.17:906][621]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.10-20.22.18:147][632]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.10-20.22.18:190][634]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.10-20.22.18:387][643]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.10-20.22.18:436][645]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.10-20.22.18:473][647]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.10-20.22.18:688][657]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.10-20.22.18:767][661]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.10-20.22.18:884][667]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.10-20.22.18:991][672]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.10-20.22.19:138][678]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.10-20.22.19:154][678]LogSlate: Took 0.005656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.10-20.22.19:170][679]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.10-20.22.19:247][683]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.10-20.22.19:274][684]MaterialEditorStats: Base pass shader: 132 instructions
+[2019.05.10-20.22.19:274][684]MaterialEditorStats: Base pass shader with Surface Lightmap: 154 instructions
+[2019.05.10-20.22.19:274][684]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2019.05.10-20.22.19:274][684]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.05.10-20.22.19:274][684]MaterialEditorStats: Texture samplers: 7/16
+[2019.05.10-20.22.19:275][684]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.05.10-20.22.19:275][684]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.05.10-20.22.19:349][688]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.10-20.22.19:443][692]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.10-20.22.19:544][697]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.10-20.22.19:546][697]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.10-20.22.19:696][704]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.10-20.22.19:747][706]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.10-20.22.19:833][710]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.10-20.22.19:880][712]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.10-20.22.20:042][719]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.10-20.22.20:066][720]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.10-20.22.20:169][725]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.10-20.22.20:187][726]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.10-20.22.20:359][734]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.10-20.22.20:405][736]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.10-20.22.20:460][739]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.10-20.22.20:502][741]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.10-20.23.18:144][992]LogMaterialEditor: Saving and Compiling material M_Ground_Grass
+[2019.05.10-20.23.19:276][992]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.05.10-20.23.19:346][992]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.10-20.23.19:346][992]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.10-20.23.19:346][992]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.10-20.23.19:346][992]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.10-20.23.19:361][992]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.05.10-20.23.19:385][992]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.05.10-20.23.19:432][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.05.10-20.23.19:440][992]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.10-20.23.21:898][992]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.05.10-20.23.21:898][992]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.05.10-20.23.21:898][992]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.05.10-20.23.21:898][992]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.05.10-20.23.21:898][992]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.05.10-20.23.21:898][992]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.05.10-20.23.21:898][992]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.05.10-20.23.21:898][992]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.05.10-20.23.21:898][992]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.05.10-20.23.21:898][992]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.10-20.23.21:898][992]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.05.10-20.23.21:898][992]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.05.10-20.23.21:899][992]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.05.10-20.23.21:899][992]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.05.10-20.23.21:899][992]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.05.10-20.23.21:899][992]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.10-20.23.21:899][992]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.10-20.23.21:899][992]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.10-20.23.21:899][992]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.10-20.23.21:899][992]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.10-20.23.21:899][992]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.10-20.23.21:899][992]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.10-20.23.21:899][992]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.10-20.23.21:900][992]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.10-20.23.21:900][992]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.10-20.23.21:900][992]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.10-20.23.21:900][992]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.10-20.23.21:900][992]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.10-20.23.21:900][992]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.10-20.23.21:900][992]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.10-20.23.21:900][992]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.10-20.23.21:901][992]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.10-20.23.21:903][992]TextureStreamingBuild: Display: Compiling optional shaders took 2.472 seconds.
+[2019.05.10-20.23.21:940][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.05.10-20.23.24:720][992]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/M_Ground_GrassDE6DACA045BBD31EDB375C930E46A44B.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Landscape/Materials/M_Ground_Grass.uasset'
+[2019.05.10-20.23.25:750][ 72]LogSlate: Window 'M_Ground_Grass' being destroyed
+[2019.05.10-20.23.25:753][ 72]LogSlate: Window 'M_Ground_Grass' being destroyed
+[2019.05.10-20.24.19:163][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.05.10-20.24.19:446][899]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Level12D66BEB24D1B8FBF84CF19A53EBAA007.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Level1.umap'
+[2019.05.10-20.24.19:628][899]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Saved/Level1_BuiltData7C3B6D2049EA4A0DD60830B6FC117153.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Southworth_3d3rdPer/Content/Levels/Level1_BuiltData.uasset'
