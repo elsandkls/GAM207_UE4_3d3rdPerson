@@ -934,3 +934,581 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.07-09.39.02:677][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
 [2019.06.07-09.39.03:077][829]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Level21847FDFD4731ADCAB1E6689609379903.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/Level2.umap'
 [2019.06.07-09.39.03:450][829]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Level2_BuiltData5C10427042577EB9EC8CE8864E6DEDD9.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/Level2_BuiltData.uasset'
+[2019.06.07-12.21.04:858][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-12.21.44:993][547]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Levels/Menus/Bottom_HUD.Bottom_HUD
+[2019.06.07-12.23.26:985][137]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.06.07-12.23.26:985][137]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level2' took 0.038
+[2019.06.07-12.23.26:988][137]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/Menus/Bottom_HUD] ([1] browsable assets)...
+[2019.06.07-12.23.26:988][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Menus/Bottom_HUD]
+[2019.06.07-12.23.27:055][137]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Bottom_HUD_Auto416B7688744AE9C270C4982B9AA3CF254.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Autosaves/Game/Levels/Menus/Bottom_HUD_Auto4.uasset'
+[2019.06.07-12.23.27:056][137]LogFileHelpers: Auto-saving content packages took 0.068
+[2019.06.07-12.24.16:552][725]Cmd: TRANSACTION UNDO
+[2019.06.07-12.24.16:552][725]LogEditorTransaction: Undo Move Anchor
+[2019.06.07-12.24.16:583][725]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.07-12.24.17:057][725]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.475 s
+[2019.06.07-12.24.17:057][725]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.07-12.24.17:057][725]LogOutputDevice: Error: 
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2124]
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: 
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: Stack: 
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ff9f75db259 UE4Editor-Engine.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ff9f65b42f1 UE4Editor-Engine.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ff9f4b84e55 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ff9f4ba6336 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ff9f4b92edc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ff9f4beab13 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ff9f4c2acd8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ff9f4bc922f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ff9f4b9269c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ff9f4b8c546 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ff9f531e0ea UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ff9e3b8559e UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ff9e3b859fe UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ffa03cb17ca UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ffa03d88b7b UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ffa03d8f350 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ffa03d6a284 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ffa03e229d2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ffa03d90c55 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ffa03c74021 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ffa03cf02c1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ffa03cdaa8a UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ffa03cd03d4 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ffa179fb8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ffa179eef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ffa179fd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ffa179ec090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ffa276e24fd USER32.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ffa276e2357 USER32.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ffa179fe946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ff64e6b5d3e UE4Editor.exe!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ff64e6c554c UE4Editor.exe!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ff64e6c55ca UE4Editor.exe!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ff64e6d315c UE4Editor.exe!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ff64e6d5b7e UE4Editor.exe!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ffa25a213f2 KERNEL32.DLL!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: [Callstack] 0x00007ffa283354f4 ntdll.dll!UnknownFunction []
+[2019.06.07-12.24.17:058][725]LogOutputDevice: Error: 
+[2019.06.07-12.24.17:064][725]LogStats:                SubmitErrorReport -  0.000 s
+[2019.06.07-12.24.28:296][725]LogStats:                    SendNewReport - 11.232 s
+[2019.06.07-12.24.28:296][725]LogStats:             FDebug::EnsureFailed - 11.713 s
+[2019.06.07-12.25.46:443][687]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Bottom_HUDB6C1C8BB40579372E9131BAB1996075A.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/Menus/Bottom_HUD.uasset'
+[2019.06.07-12.27.05:366][484]Cmd: TRANSACTION UNDO
+[2019.06.07-12.27.05:366][484]LogEditorTransaction: Undo Edit Right
+[2019.06.07-12.27.16:874][839]BlueprintLog: New page: Compile Bottom_HUD
+[2019.06.07-12.27.16:990][839]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2019.06.07-12.27.17:583][892]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Bottom_HUD0494FDA9477675FA16679C8E9DD3AF40.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/Menus/Bottom_HUD.uasset'
+[2019.06.07-12.29.18:195][210]BlueprintLog: New page: Compile Bottom_HUD
+[2019.06.07-12.29.18:257][210]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2019.06.07-12.29.18:965][275]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Bottom_HUDC160EBAB4D69C63B92088D8AC9915537.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/Menus/Bottom_HUD.uasset'
+[2019.06.07-12.29.41:755][990]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Bottom_HUD3500BFAC46F82E77DEE084AABD4CAAE3.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/Menus/Bottom_HUD.uasset'
+[2019.06.07-12.29.48:153][755]BlueprintLog: New page: Compile Bottom_HUD
+[2019.06.07-12.29.48:215][755]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2019.06.07-12.29.48:803][808]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Bottom_HUD2D24112349CEB04433EDC0AC6038583A.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/Menus/Bottom_HUD.uasset'
+[2019.06.07-12.30.01:247][795]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.06.07-12.31.39:765][153]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.07-12.31.39:990][153]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2019.06.07-12.31.40:521][183]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/ThirdPersonCharacterA0E0777E45315F1579F1CD994388A0E0.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.07-12.34.48:000][700]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.07-12.34.48:022][700]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2019.06.07-12.34.48:232][700]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2019.06.07-12.34.48:275][700]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [2553.99] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 275 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.06.07-12.34.49:947][884]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/ThirdPersonCharacterAF9078CB450F17304EDAD1A56AFCBED5.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.07-12.36.35:201][867]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.07-12.36.35:413][867]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.06.07-12.36.37:130][ 36]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/ThirdPersonCharacter92B18DAD4A61F4F6BA53E386E2319399.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.07-12.36.45:202][294]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-12.36.45:231][294]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-12.36.45:231][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-12.36.45:231][294]PIE: New page: PIE session: Level2 (Jun 7, 2019, 4:36:45 AM)
+[2019.06.07-12.36.45:231][294]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2019.06.07-12.36.45:289][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058410s)
+[2019.06.07-12.36.45:290][294]LogAIModule: Creating AISystem for world Level2
+[2019.06.07-12.36.45:290][294]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2019.06.07-12.36.45:290][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.059384s)
+[2019.06.07-12.36.45:327][294]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2019.06.07-12.36.45:332][294]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-12.36.45:338][294]LogInit: FAudioDevice initialized.
+[2019.06.07-12.36.45:369][294]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-12.36.45:373][294]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2019.06.07-08.36.45
+[2019.06.07-12.36.45:374][294]LogWorld: Bringing up level for play took: 0.004656
+[2019.06.07-12.36.45:393][294]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level2 0.783
+[2019.06.07-12.36.45:394][294]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-12.37.15:944][462]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-12.37.15:944][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-12.37.15:997][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-12.37.15:997][462]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-12.37.16:036][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-12.37.16:043][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.06.07-12.37.16:052][463]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.06.07-12.37.19:315][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-12.40.40:793][795]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.07-12.40.41:024][795]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.06.07-12.40.42:101][888]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/ThirdPersonCharacter83D8F3754A6DAB231EAC8DA887C3AEAE.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.07-12.42.28:254][400]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.07-12.42.28:493][400]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2019.06.07-12.42.29:271][457]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/ThirdPersonCharacterE8C005FC4CAB60A580A32F8667F42E65.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.07-12.42.32:108][635]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-12.42.32:134][635]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-12.42.32:134][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-12.42.32:134][635]PIE: New page: PIE session: Level2 (Jun 7, 2019, 4:42:32 AM)
+[2019.06.07-12.42.32:134][635]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2019.06.07-12.42.32:161][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026954s)
+[2019.06.07-12.42.32:162][635]LogAIModule: Creating AISystem for world Level2
+[2019.06.07-12.42.32:162][635]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2019.06.07-12.42.32:162][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.027887s)
+[2019.06.07-12.42.32:203][635]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.06.07-12.42.32:206][635]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-12.42.32:214][635]LogInit: FAudioDevice initialized.
+[2019.06.07-12.42.32:244][635]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-12.42.32:248][635]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2019.06.07-08.42.32
+[2019.06.07-12.42.32:248][635]LogWorld: Bringing up level for play took: 0.004048
+[2019.06.07-12.42.32:266][635]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level2 -0.344
+[2019.06.07-12.42.32:267][635]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-12.42.56:513][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-12.43.01:064][746]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-12.43.01:065][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-12.43.01:118][746]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-12.43.01:118][746]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-12.43.01:162][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-12.43.01:169][746]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.06.07-12.43.01:179][747]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.06.07-12.43.03:576][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-12.44.52:408][101]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/ThirdPersonCharacter6A1B56394C9AF83F49D3BE94CAEBA14F.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.07-12.44.52:853][149]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.07-12.44.53:083][149]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2019.06.07-12.45.34:654][ 91]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.07-12.45.34:884][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2019.06.07-12.45.35:524][135]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/ThirdPersonCharacterD2E40D4345C6FBB0FF6518ABC2B0280F.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.07-12.45.54:857][337]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.07-12.45.55:081][337]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2019.06.07-12.45.55:746][376]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/ThirdPersonCharacterDEB1F04B4B068E659720D4B79D4F8171.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.07-12.46.34:795][250]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.07-12.46.35:022][250]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2019.06.07-12.46.35:642][283]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/ThirdPersonCharacterB54C28B44FC6B0388242008E646C74A8.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.07-12.47.32:104][667]Cmd: TRANSACTION UNDO
+[2019.06.07-12.47.32:104][667]LogEditorTransaction: Undo Move Node
+[2019.06.07-12.49.10:327][177]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/ThirdPersonCharacter69F7FA74439944464635B9ABCBA35768.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.07-12.49.11:572][321]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.07-12.49.11:790][321]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.06.07-12.49.12:557][372]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/ThirdPersonCharacter83FF11044B4EFA036EA6BD89C5125C53.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.07-13.05.41:251][915]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.07-13.05.41:476][915]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2019.06.07-13.05.42:242][975]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/ThirdPersonCharacter659EE00C4CD134915619C2953C6B23D6.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.07-13.06.27:580][393]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.06.07-13.06.27:580][393]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level2' took 0.038
+[2019.06.07-13.06.27:582][393]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.06.07-13.06.27:598][393]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.06.07-13.06.27:598][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.06.07-13.06.27:690][393]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/ThirdPersonCharacter_Auto5B1ADEEDD480170A22EE976B1824462B6.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset'
+[2019.06.07-13.06.27:719][393]LogFileHelpers: Auto-saving content packages took 0.137
+[2019.06.07-13.07.25:629][621]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.07-13.07.25:855][621]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.06.07-13.07.26:378][652]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/ThirdPersonCharacterE91B29DA41C1AC7073C425BD180FC4C5.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.07-13.07.31:612][185]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-13.07.31:632][185]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.07.31:632][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-13.07.31:633][185]PIE: New page: PIE session: Level2 (Jun 7, 2019, 5:07:31 AM)
+[2019.06.07-13.07.31:633][185]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2019.06.07-13.07.31:660][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027647s)
+[2019.06.07-13.07.31:661][185]LogAIModule: Creating AISystem for world Level2
+[2019.06.07-13.07.31:661][185]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2019.06.07-13.07.31:661][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.028718s)
+[2019.06.07-13.07.31:703][185]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2019.06.07-13.07.31:706][185]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-13.07.31:713][185]LogInit: FAudioDevice initialized.
+[2019.06.07-13.07.31:744][185]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-13.07.31:749][185]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2019.06.07-09.07.31
+[2019.06.07-13.07.31:749][185]LogWorld: Bringing up level for play took: 0.004215
+[2019.06.07-13.07.31:768][185]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level2 -0.843
+[2019.06.07-13.07.31:768][185]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.08.04:748][314]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.08.04:749][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-13.08.04:814][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-13.08.04:814][314]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.08.04:853][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-13.08.04:860][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.06.07-13.08.04:905][315]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.06.07-13.08.06:080][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-13.08.14:203][306]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.07-13.08.14:428][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.06.07-13.08.15:062][349]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/ThirdPersonCharacterF838BFB24CCA4189B0E37794AA707590.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.07-13.08.22:044][595]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-13.08.22:064][595]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.08.22:064][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-13.08.22:064][595]PIE: New page: PIE session: Level2 (Jun 7, 2019, 5:08:22 AM)
+[2019.06.07-13.08.22:064][595]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2019.06.07-13.08.22:094][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029498s)
+[2019.06.07-13.08.22:094][595]LogAIModule: Creating AISystem for world Level2
+[2019.06.07-13.08.22:095][595]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2019.06.07-13.08.22:095][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.030627s)
+[2019.06.07-13.08.22:131][595]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.06.07-13.08.22:134][595]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-13.08.22:142][595]LogInit: FAudioDevice initialized.
+[2019.06.07-13.08.22:174][595]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-13.08.22:179][595]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2019.06.07-09.08.22
+[2019.06.07-13.08.22:179][595]LogWorld: Bringing up level for play took: 0.003993
+[2019.06.07-13.08.22:196][595]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level2 -0.414
+[2019.06.07-13.08.22:196][595]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.08.59:626][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-13.09.00:034][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-13.09.00:034][198]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.09.00:083][198]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-13.09.00:083][198]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.09.00:127][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-13.09.00:133][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.06.07-13.09.00:144][199]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.06.07-13.09.04:513][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-13.09.04:687][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.06.07-13.09.05:050][381]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Level218743B7C4C0E21FB4767C7BC7FDD7ECA.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/Level2.umap'
+[2019.06.07-13.09.05:318][381]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Level2_BuiltData5D9563504475323DEF875B91C5349222.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/Level2_BuiltData.uasset'
+[2019.06.07-13.09.06:328][425]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-13.09.06:347][425]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.09.06:348][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-13.09.06:348][425]PIE: New page: PIE session: Level2 (Jun 7, 2019, 5:09:06 AM)
+[2019.06.07-13.09.06:348][425]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2019.06.07-13.09.06:372][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023791s)
+[2019.06.07-13.09.06:372][425]LogAIModule: Creating AISystem for world Level2
+[2019.06.07-13.09.06:372][425]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2019.06.07-13.09.06:372][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.024520s)
+[2019.06.07-13.09.06:413][425]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.06.07-13.09.06:417][425]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-13.09.06:424][425]LogInit: FAudioDevice initialized.
+[2019.06.07-13.09.06:452][425]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-13.09.06:457][425]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2019.06.07-09.09.06
+[2019.06.07-13.09.06:457][425]LogWorld: Bringing up level for play took: 0.004125
+[2019.06.07-13.09.06:474][425]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level2 -0.136
+[2019.06.07-13.09.06:480][425]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.09.37:258][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-13.09.44:276][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-13.09.44:276][132]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.09.44:370][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-13.09.44:370][132]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.09.44:408][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-13.09.44:416][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.06.07-13.09.44:426][133]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.06.07-13.10.23:529][ 70]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Levels/BluePrints/TemplatePickUp.TemplatePickUp
+[2019.06.07-13.12.59:000][ 25]LogSlate: Took 0.021567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.06.07-13.13.48:466][385]BlueprintLog: New page: Compile TemplatePickUp
+[2019.06.07-13.13.48:676][385]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.06.07-13.13.49:172][421]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/TemplatePickUpF3D12E2B4BD43B19182EBF997A80411D.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/BluePrints/TemplatePickUp.uasset'
+[2019.06.07-13.14.17:911][229]BlueprintLog: New page: Compile TemplatePickUp
+[2019.06.07-13.14.18:116][229]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.06.07-13.14.18:572][263]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/TemplatePickUp93FD2F5A464CFA3D175B71AC933AAA57.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/BluePrints/TemplatePickUp.uasset'
+[2019.06.07-13.14.22:486][707]BlueprintLog: New page: Compile TemplatePickUp
+[2019.06.07-13.14.22:691][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2019.06.07-13.14.23:153][741]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/TemplatePickUp00D3F7E94FF61313DBAD868ADAF9B24B.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/BluePrints/TemplatePickUp.uasset'
+[2019.06.07-13.14.38:888][583]BlueprintLog: New page: Compile TemplatePickUp
+[2019.06.07-13.14.39:091][583]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.06.07-13.14.39:534][616]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/TemplatePickUp5BFACBE84A29E9724C3A80B606C8FE9F.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/BluePrints/TemplatePickUp.uasset'
+[2019.06.07-13.15.08:187][931]BlueprintLog: New page: Compile TemplatePickUp
+[2019.06.07-13.15.08:389][931]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.06.07-13.15.08:704][948]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/TemplatePickUp4291CB804A4EC62CBDAF71B56DD13D76.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/BluePrints/TemplatePickUp.uasset'
+[2019.06.07-13.15.20:295][300]BlueprintLog: New page: Compile TemplatePickUp
+[2019.06.07-13.15.20:500][300]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.06.07-13.15.20:987][338]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/TemplatePickUp882243CA4284CF162ADC75816E5E1E4F.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/BluePrints/TemplatePickUp.uasset'
+[2019.06.07-13.19.42:990][191]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2019.06.07-13.19.43:342][191]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Level2_Auto654F0028C4FEC5F58AE77ACA93C7D5D15.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Autosaves/Game/Levels/Level2_Auto6.umap'
+[2019.06.07-13.19.43:346][191]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level2' took 0.397
+[2019.06.07-13.19.43:346][191]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.397
+[2019.06.07-13.26.30:382][409]BlueprintLog: New page: Compile TemplatePickUp
+[2019.06.07-13.26.30:586][409]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2019.06.07-13.26.31:276][469]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/TemplatePickUp9693142244AFA223E255B49F67A4EAB1.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/BluePrints/TemplatePickUp.uasset'
+[2019.06.07-13.29.14:651][585]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/TemplatePickUp823A0A4742C35B445A7FCC90D6F71E53.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/BluePrints/TemplatePickUp.uasset'
+[2019.06.07-13.30.29:311][485]BlueprintLog: New page: Compile TemplatePickUp
+[2019.06.07-13.30.29:522][485]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2019.06.07-13.30.30:218][549]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/TemplatePickUp6FE6963D470CEB9624C1F2B2E5D7A4BA.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/BluePrints/TemplatePickUp.uasset'
+[2019.06.07-13.31.15:865][319]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/TemplatePickUp601B3A514815B168D93EDAA9B8E83B4F.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/BluePrints/TemplatePickUp.uasset'
+[2019.06.07-13.34.26:559][612]BlueprintLog: New page: Compile TemplatePickUp
+[2019.06.07-13.34.26:784][612]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2019.06.07-13.34.27:539][685]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/TemplatePickUp131DF7BE41A3B4E098FCEEAB6CADFADE.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/BluePrints/TemplatePickUp.uasset'
+[2019.06.07-13.34.32:326][242]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.07-13.34.37:644][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-13.34.43:304][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-13.35.35:289][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.06.07-13.35.35:639][633]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Level2_Auto7C49C8BA242D878EB944602867DFA967C.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Autosaves/Game/Levels/Level2_Auto7.umap'
+[2019.06.07-13.35.35:643][633]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level2' took 0.389
+[2019.06.07-13.35.35:643][633]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.389
+[2019.06.07-13.38.59:311][428]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2019.06.07-13.38.59:658][428]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Level26919325643C1160053828797D085A739.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/Level2.umap'
+[2019.06.07-13.38.59:935][428]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Level2_BuiltDataB1C53D57454581CF6ADC54B4A53FA841.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/Level2_BuiltData.uasset'
+[2019.06.07-13.39.22:046][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-13.39.26:662][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-13.40.06:633][ 74]Cmd: SELECT NONE
+[2019.06.07-13.40.09:430][187]LogEditorViewport: Clicking on Actor (LMB): TemplatePickUp_C (TemplatePickUp3)
+[2019.06.07-13.40.11:102][261]Cmd: DELETE
+[2019.06.07-13.40.11:102][261]Cmd: ACTOR DELETE
+[2019.06.07-13.40.11:109][261]LogEditorActor: Deleted Actor: TemplatePickUp_C
+[2019.06.07-13.40.11:143][261]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.06.07-13.40.11:143][261]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2019.06.07-13.40.13:672][375]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-13.40.19:188][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-13.40.19:367][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.06.07-13.40.19:711][626]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Level26C279B3449F6E4CE08E3C18D7E43FE3B.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/Level2.umap'
+[2019.06.07-13.40.19:955][626]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Level2_BuiltData257F5E90479F43A1AF98F4833F550717.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Content/Levels/Level2_BuiltData.uasset'
+[2019.06.07-13.40.20:945][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-13.40.21:027][677]MapCheck: New page: Map Check
+[2019.06.07-13.40.21:067][677]Cmd: MAP REBUILD ALLVISIBLE
+[2019.06.07-13.40.21:067][677]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.06.07-13.40.21:325][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.06.07-13.40.21:393][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:401][677]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.07-13.40.21:401][677]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.07-13.40.21:401][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.06.07-13.40.21:416][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:423][677]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.06.07-13.40.21:423][677]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.06.07-13.40.21:423][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:431][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:438][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:446][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:456][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:464][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:471][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:478][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:486][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:493][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:500][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:507][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:514][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:522][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:529][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:539][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:546][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:554][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:561][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:567][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:575][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:583][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:590][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:597][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.21:604][677]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.06.07-13.40.26:428][677]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.07-13.40.26:429][677]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.07-13.40.26:429][677]TextureStreamingBuild: Display: Compiling optional shaders took 5.039 seconds.
+[2019.06.07-13.40.26:462][677]LogLevel: Display: Export Material TexCoord Scales took 0.034 seconds.
+[2019.06.07-13.40.26:531][677]TextureStreamingBuild: Display: Build Texture Streaming took 0.069 seconds.
+[2019.06.07-13.40.26:565][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.06.07-13.40.26:565][677]LightingResults: New page: Lighting Build - Jun 7, 2019, 5:40:26 AM
+[2019.06.07-13.40.26:575][677]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.06.07-13.40.26:576][677]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.06.07-13.40.26:576][677]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.06.07-13.40.26:578][677]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.06.07-13.40.26:578][677]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11324
+[2019.06.07-13.40.31:129][677]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.06.07-13.40.31:129][677]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.06.07-13.40.31:129][677]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.06.07-13.40.31:129][677]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.06.07-13.40.31:129][677]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.06.07-13.40.31:129][677]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.06.07-13.40.31:239][677]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.06.07-13.40.31:239][677]MapCheck: New page: Level2 - Jun 7, 2019, 5:40:31 AM
+[2019.06.07-13.40.31:241][677]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.332ms to complete.
+[2019.06.07-13.40.31:264][677]LogEditorBuildUtils: Build time 0:10
+[2019.06.07-13.40.31:683][686]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.06.07-13.40.37:781][ 26]Job is a success!
+[2019.06.07-13.40.37:883][ 27]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2019.06.07-13.40.37:883][ 27]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.06.07-13.40.37:883][ 27]LogVolumetricLightmapImport:      BrickData 150x5x5 = 0.1Mb
+[2019.06.07-13.40.37:883][ 27]LogVolumetricLightmapImport:      Bricks at Level
+[2019.06.07-13.40.37:883][ 27]LogVolumetricLightmapImport:          0: 3.3% covering 100.0% of volume
+[2019.06.07-13.40.37:883][ 27]LogVolumetricLightmapImport:          1: 6.7% covering 3.1% of volume
+[2019.06.07-13.40.37:883][ 27]LogVolumetricLightmapImport:          2: 90.0% covering 0.7% of volume
+[2019.06.07-13.40.38:717][ 27]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.06.07-13.40.38:717][ 27]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.06.07-13.40.38:717][ 27]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.06.07-13.40.38:717][ 27]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.06.07-13.40.38:717][ 27]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.06.07-13.40.38:717][ 27]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.06.07-13.40.38:717][ 27]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2019.06.07-13.40.38:718][ 27]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2019.06.07-13.40.38:718][ 27]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2019.06.07-13.40.38:718][ 27]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2019.06.07-13.40.38:718][ 27]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2019.06.07-13.40.38:718][ 27]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2019.06.07-13.40.38:839][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2019.06.07-13.40.38:839][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2019.06.07-13.40.38:839][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 32X32)
+[2019.06.07-13.40.38:839][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 128X512)
+[2019.06.07-13.40.38:839][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X512)
+[2019.06.07-13.40.38:851][ 27]LogStaticLightingSystem: Level2_BuiltData storing lightmap data for 86 meshes in 8 LightmapResourceClusters (10.8 Meshes per cluster).
+[2019.06.07-13.40.38:881][ 27]Lightmass on ELS-SCHOOL-1: 6.51 sec total, 347 ms importing, 51 ms setup, 968 ms photons, 5.13 sec processing, 0 ms extra exporting [172/172 mappings]. Threads: 35.7 sec total, 22.5 sec processing.
+[2019.06.07-13.40.38:885][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.06.07-13.40.38:898][ 27]LogStaticLightingSystem: Illumination: 12.2 sec (753 ms encoding lightmaps, 116 ms encoding shadowmaps)
+[2019.06.07-13.40.38:898][ 27]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (4.0 MB streaming, 2.0 MB non-streaming), 12 textures
+[2019.06.07-13.40.38:898][ 27]LogStaticLightingSystem: Shadowmap texture memory: 0.8 MB (0.7 MB streaming, 0.1 MB non-streaming), 5 textures
+[2019.06.07-13.40.39:132][ 27]DumpUnbuiltLightIteractions
+[2019.06.07-13.40.39:132][ 27]Lights with unbuilt interactions: 0
+[2019.06.07-13.40.39:132][ 27]
+[2019.06.07-13.40.39:132][ 27]Primitives with unbuilt interactions: 0
+[2019.06.07-13.40.39:135][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-13.40.39:286][ 28]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.06.07-13.40.39:286][ 28]MapCheck: New page: Level2 - Jun 7, 2019, 5:40:39 AM
+[2019.06.07-13.40.39:287][ 28]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.868ms to complete.
+[2019.06.07-13.40.40:851][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-13.40.40:923][116]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-13.40.40:938][116]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.40.40:938][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-13.40.40:938][116]PIE: New page: PIE session: Level2 (Jun 7, 2019, 5:40:40 AM)
+[2019.06.07-13.40.40:938][116]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2019.06.07-13.40.40:969][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030702s)
+[2019.06.07-13.40.40:970][116]LogAIModule: Creating AISystem for world Level2
+[2019.06.07-13.40.40:970][116]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2019.06.07-13.40.40:970][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.031813s)
+[2019.06.07-13.40.41:002][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.06.07-13.40.41:005][116]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-13.40.41:013][116]LogInit: FAudioDevice initialized.
+[2019.06.07-13.40.41:041][116]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-13.40.41:046][116]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2019.06.07-09.40.41
+[2019.06.07-13.40.41:047][116]LogWorld: Bringing up level for play took: 0.004557
+[2019.06.07-13.40.41:064][116]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level2 0.453
+[2019.06.07-13.40.41:064][116]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.41.09:369][268]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.41.09:369][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-13.41.09:427][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-13.41.09:427][268]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.41.09:461][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-13.41.09:467][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.06.07-13.41.09:509][269]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.06.07-13.46.02:540][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-13.46.02:612][621]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-13.46.02:629][621]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.46.02:629][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-13.46.02:629][621]PIE: New page: PIE session: Level2 (Jun 7, 2019, 5:46:02 AM)
+[2019.06.07-13.46.02:629][621]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2019.06.07-13.46.02:654][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025166s)
+[2019.06.07-13.46.02:655][621]LogAIModule: Creating AISystem for world Level2
+[2019.06.07-13.46.02:655][621]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2019.06.07-13.46.02:655][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.026099s)
+[2019.06.07-13.46.02:688][621]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.06.07-13.46.02:692][621]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-13.46.02:700][621]LogInit: FAudioDevice initialized.
+[2019.06.07-13.46.02:729][621]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-13.46.02:734][621]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2019.06.07-09.46.02
+[2019.06.07-13.46.02:735][621]LogWorld: Bringing up level for play took: 0.004503
+[2019.06.07-13.46.02:753][621]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level2 0.143
+[2019.06.07-13.46.02:753][621]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.46.40:159][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-13.46.40:160][590]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.46.40:210][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-13.46.40:210][590]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.46.40:244][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-13.46.40:251][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.06.07-13.46.40:301][591]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.06.07-13.46.43:224][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-13.46.43:304][745]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-13.46.43:320][745]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.46.43:320][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-13.46.43:320][745]PIE: New page: PIE session: Level2 (Jun 7, 2019, 5:46:43 AM)
+[2019.06.07-13.46.43:320][745]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2019.06.07-13.46.43:344][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024060s)
+[2019.06.07-13.46.43:345][745]LogAIModule: Creating AISystem for world Level2
+[2019.06.07-13.46.43:345][745]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2019.06.07-13.46.43:345][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.024856s)
+[2019.06.07-13.46.43:375][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.06.07-13.46.43:378][745]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-13.46.43:384][745]LogInit: FAudioDevice initialized.
+[2019.06.07-13.46.43:415][745]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-13.46.43:420][745]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2019.06.07-09.46.43
+[2019.06.07-13.46.43:420][745]LogWorld: Bringing up level for play took: 0.004157
+[2019.06.07-13.46.43:437][745]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level2 0.827
+[2019.06.07-13.46.43:437][745]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.46.55:129][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-13.47.02:606][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-13.47.22:329][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-13.47.22:329][ 95]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.47.22:386][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-13.47.22:386][ 95]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.06.07-13.47.22:420][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-13.47.22:428][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.06.07-13.47.22:504][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.06.07-13.47.25:685][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-13.52.06:097][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.06.07-13.52.06:466][331]LogSavePackage: Moving '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Level2_Auto800E8E333454ECC3E210ADA842921E023.tmp' to '../../../../../../Users/els/Documents/GitHub/_GAM207_unreal_3d3rdPerson/Southworth_3d3rdPer/Saved/Autosaves/Game/Levels/Level2_Auto8.umap'
+[2019.06.07-13.52.06:471][331]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level2' took 0.405
+[2019.06.07-13.52.06:471][331]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.405
